@@ -11,7 +11,7 @@
  */
 
 // This #include statement was automatically added by the Spark IDE.
-#include "SHT1x/SHT1x.h"
+#include "SHT1x.h"
 
 // Specify data and clock connections and instantiate SHT1x object
 #define dataPin  D0
